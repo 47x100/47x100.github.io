@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+100 Abenteuer in (höchstens) 100 Wochen: das ist die Idee und Motto
+Begonnen hat die Challenge Anfang Oktober 2022 von Julia & Freddy
 
-### More Information
+### Kontakt
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[email](mailto:sedans-ravine-0q@icloud.com)
